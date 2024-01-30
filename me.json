@@ -1,0 +1,11 @@
+{
+    "name": "Ane",
+    "age": 21,
+    "isMarried": true,
+    "height": 1.65,
+    "gender": "female",
+    "hobbies": [
+        "reading",
+        "coding"
+    ]
+}   
