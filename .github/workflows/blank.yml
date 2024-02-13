@@ -28,6 +28,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run Hello
         run: echo Hello, world!
+      - name: run goodbye
+        run: echo goodbye
   goodbye:
     needs: build
     runs-on: ubuntu-latest
